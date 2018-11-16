@@ -1,5 +1,5 @@
 # Retail
-As part of my consulting to Startup dail with retails I wrote this code.
+As part of my consulting to Startup in the domain of retails I wrote this code.
 
 The models are from:
 
