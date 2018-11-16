@@ -1,4 +1,4 @@
-# CiValue
+# Retail
 As part of my consulting to CiValue (http://www.civalue.com/) I wrote this code.
 
 The models are from:
